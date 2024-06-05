@@ -23,10 +23,6 @@ The API was developed for my [Youtube Tutorial](https://www.youtube.com/watch?v=
 
 1. Clone the repository:
 
-```bash
-git clone https://github.com/Fernanda-Kipper/auth-api.git
-```
-
 2. Install dependencies with Maven
 
 3. Install [PostgresSQL](https://www.postgresql.org/)
